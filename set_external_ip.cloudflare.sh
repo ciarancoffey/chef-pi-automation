@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-set -x
 #  Set the external IP on cloudflare dns, dyndns style,
 #  using the current external (ipv4) address.
 #
